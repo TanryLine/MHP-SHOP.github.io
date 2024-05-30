@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+body{
+    margin:0;
+    
+}
+.menu1{
+    padding: 24px 0;
+    background-color:  #000000;
+    display:flex;
+    width: 100%;
+    height: 80px;
+    margin: 0;
+    justify-content: space-around;
+    
+}
+.logo{
+    width: 150px;
+    height: 150px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin: 0 20px;
+    padding: 0 20px;
+    align-items: center;
+}
+
+a{
+    color: white;
+    margin: 0 20px;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.menu1 li a:hover{
+    transition: 0.8s;
+    color:rgb(255, 170, 0);
+}
+.container{
+    background-image: url("images/1937918674_preview_9368476cf11779dc22928537b592068dd3a0f836.jpg");
+}
+.card{
+    width: 60%;
+    background: linear-gradient(rgb(5, 5, 132), black);
+    margin: auto;
+    display: flex;
+    justify-content:center;
+
+
+}
+.card2{
+    display: flex;
+}
+label {
+    display: block;
+    font:
+      1rem 'Fira Sans',
+      sans-serif;
+  }
+  
+  input,
+  label {
+    margin: 0.4rem 0;
+  }
+.card3{
+    padding: 0 100px;
+}
+.name{
+    color:white;
+}
+.card1{
+    padding: 50px 0;
+    display: flex;
+}
+h2{
+    color: white;
+}
+.card4{
+    width: 60%;
+    background: linear-gradient(rgb(5, 5, 132), black);
+    margin: auto;
+    display: flex;
+    justify-content:center;
+}
+.icon{
+    width: 225px;
+    height: 358px;
+    display: inline-block; 
+    overflow: hidden; 
+}
+.text2{
+    width: 60%;
+    background: linear-gradient(rgb(5, 5, 132), black);
+    margin: auto;
+    display: flex;
+    justify-content:center;
+    font-size: 35px;
+}
+.card6{
+    width: 250px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+    padding: 50px 0;
+}
+.menu2{
+    background-color:  #000000;
+    display:flex;
+    width: 100%;
+    height: 80px;
+    margin: 0;
+    justify-content: space-around;   
+}
+.logo1{
+    width: 150px;
+    height: 150px;
+}
+.container img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.container a:hover{
+    transition: 0.6s;
+    color:rgb(255, 170, 0);
+}
+.logo2{
+    width: 120px;
+    height: 30px;
+}
+.logo3{
+    width: 100px;
+    height: 50px;
+    padding: 44px;
+
+}
+.logo4{
+    width: 100px;
+    height: 40px;
+}
+.logo5{
+    width: 50px;
+    height: 50px;
+    padding: 0 10px;
+}
